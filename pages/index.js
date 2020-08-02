@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        TRAYNIIX</a>
+        TRAYNIIX
       </h1>
 
       <p className="description">
