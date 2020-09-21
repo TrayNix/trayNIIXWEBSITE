@@ -95,7 +95,7 @@ const Home = () => (
         text-decoration: none;
       }
       .title a {
-        color: #0070f3;
+        color: #18ba26;
         text-decoration: none;
       }
       .title a:hover,
@@ -117,7 +117,7 @@ const Home = () => (
         font-size: 1.5rem;
       }
       code {
-        background: #fafafa;
+        background: #a80000;
         border-radius: 5px;
         padding: 0.75rem;
         font-size: 1.1rem;
@@ -146,8 +146,8 @@ const Home = () => (
       .card:hover,
       .card:focus,
       .card:active {
-        color: #0070f3;
-        border-color: #0070f3;
+        color: #18ba26;
+        border-color: #18ba26;
       }
       .card h3 {
         margin: 0 0 1rem 0;
