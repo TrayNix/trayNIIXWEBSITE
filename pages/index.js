@@ -13,30 +13,30 @@ const Home = () => (
       </h1>
 
       <p className="description">
-        Hello, my discord is ᴛʀᴀʏɴɪx#9999 and I am a newbie web developer. I would like to become a Full Stack developer later
+        Hello, my discord is ᴛʀᴀʏɴɪx#9999 and I'm a young web developer. I would like to become a Full Stack developer later.
       </p>
 
       <div className="grid">
-        <a href="www.google.com" className="card">
-          <h3>Nothing &rarr;</h3>
-          <p>Nothing.</p>
+        <a href="https://github.com/TrayNix" className="card">
+          <h3>Github &rarr;</h3>
+          <p>My Github with all of my repos.</p>
         </a>
 
-        <a href="www.google.com" className="card">
-          <h3>Nothing. &rarr;</h3>
-          <p>Nothing!</p>
+        <a href="https://twitter.com/Trayniix_" className="card">
+          <h3>My Twitter &rarr;</h3>
+          <p>My Twitter with all my tweets !</p>
         </a>
 
         <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
+          href="https://www.steamcommunity/id/TrayNix78"
           className="card"
         >
-          <h3>Nothing &rarr;</h3>
-          <p>Nothing.</p>
+          <h3>My Steam account ! &rarr;</h3>
+          <p>Steam account with all my games and informations and specs!</p>
         </a>
 
         <a
-          href="https://vercel.com/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="google.com"
           className="card"
         >
           <h3>Nothing &rarr;</h3>
@@ -53,7 +53,7 @@ const Home = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Powered by <img src="/vercel.svg" alt="Vercel Logo" />
+        Crée par Trayniix avec ❤️
       </a>
     </footer>
 
