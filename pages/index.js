@@ -34,16 +34,6 @@ const Home = () => (
           <h3>My Steam account ! &rarr;</h3>
           <p>Steam account with all my games and informations and specs!</p>
         </a>
-
-        <a
-          href="google.com"
-          className="card"
-        >
-          <h3>Nothing &rarr;</h3>
-          <p>
-            Nothing.
-          </p>
-        </a>
       </div>
     </main>
 
