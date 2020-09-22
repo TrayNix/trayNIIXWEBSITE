@@ -28,7 +28,7 @@ const Home = () => (
         </a>
 
         <a
-          href="https://www.steamcommunity/id/TrayNix78"
+          href="https://www.steamcommunity.com/id/TrayNix78"
           className="card"
         >
           <h3>My Steam account ! &rarr;</h3>
